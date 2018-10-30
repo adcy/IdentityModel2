@@ -95,6 +95,7 @@ namespace IdentityModel.Client
         {
             _tokenClient = client;
             _scope = scope;
+            x;
         }
 
         /// /// <summary>
